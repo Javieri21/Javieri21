@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <linearGradient id="python-gradient" gradientUnits="userSpaceOnUse" x1="70.252" y1="1237.476" x2="170.659" y2="1151.089" gradientTransform="matrix(1 0 0 -1 -62.379 1239.734)">
+    <stop offset="0" stop-color="#387EB8"></stop>
+    <stop offset="1" stop-color="#366994"></stop>
+  </linearGradient>
+  <path fill="url(#python-gradient)" d="M63.391 0C27.791 0 32.09 16.188 32.09 16.188l.002 16.779h31.875v5.047H20.438S0 36.588 0 72.188s17.797 36.547 17.797 36.547h10.616v-14.938s-.572-17.797 17.797-17.797h31.875s17.797.284 17.797-17.797V17.797S98.293 0 63.391 0zM47.66 10.645c3.021 0 5.469 2.447 5.469 5.469a5.468 5.468 0 01-5.469 5.469 5.468 5.468 0 01-5.469-5.469c0-3.022 2.448-5.469 5.469-5.469z"></path>
+  <linearGradient id="python-gradient2" gradientUnits="userSpaceOnUse" x1="209.474" y1="1098.811" x2="173.62" y2="1149.537" gradientTransform="matrix(1 0 0 -1 -62.379 1239.734)">
+    <stop offset="0" stop-color="#FFE052"></stop>
+    <stop offset="1" stop-color="#FFC331"></stop>
+  </linearGradient>
+  <path fill="url(#python-gradient2)" d="M64.609 127.984c35.6 0 31.301-16.188 31.301-16.188l-.002-16.779H64.033v-5.047h43.531s20.438 1.574 20.438-34.025S110.205 19.398 110.205 19.398H99.59v14.938s.572 17.797-17.797 17.797H49.918s-17.797-.284-17.797 17.797v40.405S29.707 127.984 64.609 127.984zM80.34 117.34a5.468 5.468 0 01-5.469-5.469 5.468 5.468 0 015.469-5.469 5.468 5.468 0 015.469 5.469 5.468 5.468 0 01-5.469 5.469z"></path>
+</svg>

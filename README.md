@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center" style="background: linear-gradient(90deg, #003366, #006699); padding: 10px; border-radius: 10px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Who's+behind+this+profile%3F;Only+data+holds+the+answer...;Explore+and+discover+my+projects&center=true&width=560&height=45&color=ffffff&size=21">
+  </a>
+</div>
 
-<!--
-**Javieri21/Javieri21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<p align="center">
+  Hello there! I'm <strong>Javier Aguado Tomás</strong>, an <em>Administrative Accountant</em> and student of the <strong>Master’s in Big Data & Cloud</strong>.<br>
+  I'm passionate about the intersection between business management and technology, especially the power of data to improve efficiency and decision-making.<br>
+  <br>
+  💼 My accounting background has taught me the value of precision and organization—skills I apply in data analysis and processing.<br>
+  🚀 I’m currently deepening my knowledge of tools for data analytics, automation, and cloud-based development.<br>
+  <br>
+  Always driven by an analytical, curious, and continuous-learning mindset.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<blockquote align="center">
+  <em>“Turning data into insight is the key to making better decisions.”</em>
+</blockquote>
+
+<h5 align="center">
+  <a href="https://www.linkedin.com/in/javier-aguado-tom%C3%A1s-275313364/" title="LinkedIn Profile">
+    <img src="images/linkedin.png" width="22"> LinkedIn: Javier Aguado Tomás
+  </a>
+</h5>
+
+<hr>
+
+<h2 align="center">⚡ Languages & Tools ⚡</h2>
+<p align="center">
+<code><img title="Python" height="25" src="images/python.svg"></code> 
+<code><img title="SQL" height="25" src="images/sql.png"></code> 
+<code><img title="Docker" height="25" src="images/docker.png"></code> 
+<code><img title="GitHub" height="25" src="images/github.png"></code> 
+<code><img title="Visual Studio Code" height="25" src="images/visualstudio.png"></code>
+</p>
+
+<hr>
+
+<h4 align="center">
+  <a href="https://github.com/Javieri21/Javieri21" title="Show repositories">🔎 Explore my projects 🔍</a>
+</h4>
+
+<hr>
+
+<p align="center">
+  <em>⭐ Thanks for visiting my profile — always learning, always improving. ⭐</em>
+</p>
