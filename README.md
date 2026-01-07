@@ -1,3 +1,4 @@
+<hr>
 <p align="center">
   Hello there! I'm <strong>Javier Aguado Tomás</strong>, an <em>Administrative Accountant</em> and student of the <strong>Master’s in Big Data & Cloud</strong>.<br>
   I'm passionate about the intersection between business management and technology, especially the power of data to improve efficiency and decision-making.<br>
