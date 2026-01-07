@@ -1,3 +1,4 @@
+<br><br><br>
 <div align="center" style="background: linear-gradient(90deg, #003366, #006699); padding: 10px; border-radius: 10px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Who's+behind+this+profile%3F;Only+data+holds+the+answer...;Explore+and+discover+my+projects&center=true&width=560&height=45&color=ffffff&size=21">
@@ -30,8 +31,8 @@
 
 <h2 align="center">⚡ Languages & Tools ⚡</h2>
 <p align="center">
-<code><img title="Python" height="25" src="images/python.svg"></code> 
-<code><img title="SQL" height="25" src="images/SQL.png"></code> 
+- <code><img title="Python" height="25" src="images/python.svg">Python</code> 
+- <code><img title="SQL" height="25" src="images/SQL.png">SQL</code> 
 <code><img title="Docker" height="25" src="images/docker.png"></code> 
 <code><img title="GitHub" height="25" src="images/Github.png"></code> 
 <code><img title="VSC" height="25" src="images/Visualstudio.png"></code>
@@ -48,3 +49,5 @@
 <p align="center">
   <em>⭐ Thanks for visiting my profile — always learning, always improving. ⭐</em>
 </p>
+
+
