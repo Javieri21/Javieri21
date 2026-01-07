@@ -22,7 +22,7 @@
 
 <h5 align="center">
   <a href="https://www.linkedin.com/in/javier-aguado-tom%C3%A1s-275313364/" title="LinkedIn Profile">
-    <img src="images/Linkedin.png" width="22"> LinkedIn: Javier Aguado Tomás
+    <img src="images/LinkedIn.png" width="22"> LinkedIn: Javier Aguado Tomás
   </a>
 </h5>
 
