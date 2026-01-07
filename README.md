@@ -22,7 +22,7 @@
 
 <h5 align="center">
   <a href="https://www.linkedin.com/in/javier-aguado-tom%C3%A1s-275313364/" title="LinkedIn Profile">
-    <img src="images/linkedin.png" width="22"> LinkedIn: Javier Aguado Tomás
+    <img src="images/Linkedin.png" width="22"> LinkedIn: Javier Aguado Tomás
   </a>
 </h5>
 
@@ -31,16 +31,16 @@
 <h2 align="center">⚡ Languages & Tools ⚡</h2>
 <p align="center">
 <code><img title="Python" height="25" src="images/python.svg"></code> 
-<code><img title="SQL" height="25" src="images/sql.png"></code> 
+<code><img title="SQL" height="25" src="images/SQL.png"></code> 
 <code><img title="Docker" height="25" src="images/docker.png"></code> 
-<code><img title="GitHub" height="25" src="images/github.png"></code> 
-<code><img title="Visual Studio Code" height="25" src="images/visualstudio.png"></code>
+<code><img title="GitHub" height="25" src="images/Github.png"></code> 
+<code><img title="VSC" height="25" src="images/Visualstudio.png"></code>
 </p>
 
 <hr>
 
 <h4 align="center">
-  <a href="https://github.com/Javieri21/Javieri21" title="Show repositories">🔎 Explore my projects 🔍</a>
+  <a href="https://github.com/Javieri21?tab=repositories" title="Show repositories">🔎 Explore my projects 🔍</a>
 </h4>
 
 <hr>
