@@ -1,12 +1,3 @@
-<br><br><br>
-<div align="center" style="background: linear-gradient(90deg, #003366, #006699); padding: 10px; border-radius: 10px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Who's+behind+this+profile%3F;Only+data+holds+the+answer...;Explore+and+discover+my+projects&center=true&width=560&height=45&color=ffffff&size=21">
-  </a>
-</div>
-
-<hr>
-
 <p align="center">
   Hello there! I'm <strong>Javier Aguado Tomás</strong>, an <em>Administrative Accountant</em> and student of the <strong>Master’s in Big Data & Cloud</strong>.<br>
   I'm passionate about the intersection between business management and technology, especially the power of data to improve efficiency and decision-making.<br>
