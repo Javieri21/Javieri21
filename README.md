@@ -31,7 +31,7 @@
 
 <h2 align="center">⚡ Languages & Tools ⚡</h2>
 <p align="center">
-  <code inherit=True><img title="Python" height="25" src="images/python.svg">Python</code>
+  <code><img title="Python" style="height:25px; vertical-align:middle;" src="images/python.svg">Python</code>
   <code><img title="SQL" height="25" src="images/SQL.png">SQL</code> 
   <code><img title="Docker" height="25" src="images/docker.png"></code> 
   <code><img title="GitHub" height="25" src="images/Github.png"></code> 
